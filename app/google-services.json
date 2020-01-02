@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "682260319686",
+    "firebase_url": "https://rockpapper-88c2e.firebaseio.com",
+    "project_id": "rockpapper-88c2e",
+    "storage_bucket": "rockpapper-88c2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682260319686:android:5456a22ba72ebc9de5b6c7",
+        "android_client_info": {
+          "package_name": "com.example.rockpapper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682260319686-5cvgt56pme4g1cormhc9ei2btlm6qpq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rockpapper",
+            "certificate_hash": "015e97dd5b7809e6d87a6dc292a21e1e5198a08e"
+          }
+        },
+        {
+          "client_id": "682260319686-n8apu6grqclvlgc1ltduvgj0lh4c0ur2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKW_obxFUNZzL-1RnEQaZ-mIUVAa0V1QY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682260319686-n8apu6grqclvlgc1ltduvgj0lh4c0ur2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
